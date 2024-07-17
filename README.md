@@ -1,4 +1,8 @@
-  <a href="https://github.com/thsrite"><img src="https://github-readme-stats.vercel.app/api?username=thsrite&hide_border=true&show_icons=true" alt="thsrite's github stats"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thsrite&layout=compact"></a>
+
+  <div align="center">
+    <img align="center" height="170vw" src="https://github-readme-stats.vercel.app/api?username=thsrite&hide_border=true&show_icons=true&theme=ayu-mirage" alt="thsrite's github stats">
+    <img align="center" height="170vw" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thsrite&layout=compact&theme=ayu-mirage"></a>
+  </div>
 
 <!--
 **thsrite/thsrite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
