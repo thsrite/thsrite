@@ -1,7 +1,6 @@
 
   <div align="center">
     <img align="center" height="170vw" src="https://github-readme-stats.vercel.app/api?username=thsrite&show_icons=true&theme=ayu-mirage" alt="thsrite's github stats">
-    <img align="center" height="170vw" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thsrite&layout=compact&theme=ayu-mirage"></a>
   </div>
 
 <!--
